@@ -2,6 +2,12 @@ package graphs;
 
 import java.util.*;
 
+/**
+ * evaluate-division
+ * Input: equations = [["a","b"],["b","c"]], values = [2.0,3.0], queries = [["a","c"],["b","a"],["a","e"],["a","a"],["x","x"]]
+ * Output: [6.00000,0.50000,-1.00000,1.00000,-1.00000]
+ *
+ */
 public class EvaluateDivision {
 
     public static void main(String[] args) {
